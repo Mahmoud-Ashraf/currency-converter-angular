@@ -1,6 +1,6 @@
 # Currency Converter
 
-React app to get rates of any currency.
+Angular app to get rates of any currency.
 
 ## Usage
 
